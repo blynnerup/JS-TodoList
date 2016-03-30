@@ -1,8 +1,9 @@
 ﻿#container
 {
     width: 360px;
-    margin: 0 auto; 
+    margin: 100px auto; 
     border: 2px solid grey;
+    background-color: #f7f7f7;
 }
 
 .completed
